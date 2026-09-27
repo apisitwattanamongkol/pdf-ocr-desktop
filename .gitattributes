@@ -1,0 +1,7 @@
+# Generated on 2026-11-10
+*.svg text
+*.html linguist-vendored
+src/**/*.tsx linguist-detectable
+
+* text=auto
+yarn.lock linguist-generated
